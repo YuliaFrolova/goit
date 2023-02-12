@@ -2,3 +2,4 @@ Commit 2 We just add new row!
 Commit 3 We added second row!
 
 Commit 4 in feature1 branch
+Commit 6 in feature3 branch
