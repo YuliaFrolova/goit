@@ -8,4 +8,4 @@ Commit 6 in feature3 branch
 Commit 5 in feature2 branch
 
 Commit 7 conflict resolved
-
+Commit 8 commit for PR
